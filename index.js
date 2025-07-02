@@ -1,7 +1,7 @@
 import {
   listContacts,
-  getContactById,
   removeContact,
+  getContactById,
   addContact,
 } from "./contacts.js";
 
